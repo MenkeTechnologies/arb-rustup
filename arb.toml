@@ -1,0 +1,5 @@
+[package]
+name = "rustup"
+version = "0.1.0"
+license = "MIT"
+description = "Installed Rust toolchains"

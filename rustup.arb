@@ -1,0 +1,5 @@
+# rustup — Installed Rust toolchains, self-sourced from `rustup toolchain list`.
+! rustup toolchain list every 10s
+list .rustup
+source .rustup { in }
+grid .rustup -row 0 -col 0
